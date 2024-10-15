@@ -21,6 +21,5 @@
         "psr-4": {
             "EvansWanguba\\OnfonmediaSMS\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
