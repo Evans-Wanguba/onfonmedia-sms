@@ -3,7 +3,6 @@
     "keywords": ["laravel bulk sms", "sms", "bulk sms", "onfonmedia"],
     "description": "This is a PHP package for Onfon Media Bulk SMS API integration",
     "type": "library",
-    "license": "MIT",
     "authors": [
         {
             "name": "Evans Wanguba",
@@ -11,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=7.1",
+        "php": ">=8.0",
         "guzzlehttp/guzzle": "^6.0 || ^7.0"
     },
     "require-dev": {
@@ -22,5 +21,6 @@
         "psr-4": {
             "EvansWanguba\\OnfonmediaSMS\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
