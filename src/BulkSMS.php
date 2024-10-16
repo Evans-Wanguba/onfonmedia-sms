@@ -3,7 +3,7 @@
 namespace EvansWanguba\OnfonmediaSMS;
 
 /**
- * Class BuniApi.
+ * Class BulkSMS.
  *
  * @category PHP
  * @author   Evans Wanguba <ewanguba@gmail.com>
